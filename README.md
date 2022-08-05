@@ -1,2 +1,2 @@
 # project1
-In this project refactored the code to make it more accessible.
+In this project I refactored the code to make it more accessible.
